@@ -1,0 +1,63 @@
+
+body {
+  margin: 0; padding: 0;
+  background: #0c0c0c;
+  display: grid;
+  place-items: center;
+}
+
+.box {
+  width: 100px; height: 100px;
+  position: relative;
+}
+
+.bila-o {
+  background-color: orange;
+  width: 1em; height: 1em;
+  padding: 5%; border-radius: 50%;
+  margin: 3em 0 0 15em;
+}
+
+.bila-p {
+  background-color: silver;
+  width: 3em; height: 3em;
+  padding: 5%; border-radius: 50%;
+  margin: 5em 0 5em 0;
+}
+
+.bila-n {
+  background-color: green;
+  width: 5em; height: 5em;
+  padding: 5%; border-radius: 50%;
+  position: absolute;
+}
+
+.bila {
+  background-color: pink;
+  width: 20em; height: 20em;
+  padding: 5%; border-radius: 1em;
+}
+
+h1 {
+  font-family: 'Dongle', sans-serif;
+  font-size: 5em; margin: auto;
+}
+
+p {
+  font-family: 'Dongle', sans-serif;
+  font-size: 2em; margin: auto;
+}
+
+.bila-b {
+  background-color: blue;
+  width: 3em; height: 3em;
+  padding: 5%; border-radius: 50%;
+  margin: 5em 0 0 0;
+}
+
+.bila-c {
+  background-color: gold;
+  width: 1em; height: 1em;
+  padding: 5%; border-radius: 50%;
+  margin: 5em 12em 10em 0;
+}
